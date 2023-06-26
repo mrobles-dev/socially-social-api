@@ -2,7 +2,7 @@
 
 ## Description
 
-A Backend API using noSQL MongoDB.
+A Backend social media API using noSQL MongoDB.
 
 - After learning MySQL, the backend non-relational database known as MongoDB was next to learn.
 - This backend applications displays full CRUD operations.
@@ -12,13 +12,21 @@ A Backend API using noSQL MongoDB.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Since this is all server-side,follow video walkthrough or clone repo to see how the application works.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Users example:
+https://drive.google.com/file/d/12sPG_FtcBZNvy81Vj-AN2TR0yCvP7SL4/view
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+![video](./Untitled_%20Jun%2026%2C%202023%203_20%20PM.gif)
+
+
+Thoughts example:
+https://drive.google.com/file/d/1NaavIrsjrOYKc03oRawNHr5ppTqG7j4O/view
+
+    
+![video](./thoughts.gif)
+
 
 
 ## License
